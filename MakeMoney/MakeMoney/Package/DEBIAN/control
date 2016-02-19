@@ -1,0 +1,17 @@
+Package: com.mopellet.MakeMoney
+Name: MakeMoney
+Version: 1.0-1
+Description: 
+Section: System
+Depends: firmware (>= 5.0)
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: Pellet Mo
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 
+

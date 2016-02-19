@@ -1,0 +1,12 @@
+//
+// Prefix header for all source files of the 'MakeMoney' target in the 'MakeMoney' project
+//
+
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import "Define.h"
+#import "AFNetworking.h"
+#import "MJExtension.h"
+#import <UIKit/UIKit.h>
+#import <SystemConfiguration/CaptiveNetwork.h>
+#endif
